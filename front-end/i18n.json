@@ -1,0 +1,14 @@
+{
+    "localeDetection": false,
+    "locales": ["en", "th"],
+    "defaultLocale": "th",
+    "pages": {
+        "*": [
+            "common",
+            "customer",
+            "validate",
+            "product",
+            "order"
+        ]
+    }
+}

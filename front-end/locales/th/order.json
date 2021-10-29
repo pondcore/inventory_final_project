@@ -1,0 +1,24 @@
+{
+    "title": "ออเดอร์",
+    "table": {
+        "printButton": "ปริ้น"
+    },
+    "form": {
+        "customerInfo": "ข้อมูลลูกค้า",
+        "productList": "รายการสินค้า",
+        "customerName": "ชื่อลูกค้า",
+        "customerPhone": "เบอร์โทรศัพท์",
+        "customerAddress": "ที่อยู่",
+        "customerSubdistrict": "ตำบล",
+        "customerDistrict": "อำเภอ",
+        "customerProvince": "จังหวัด",
+        "customerZipCode": "รหัสไปรษณีย์",
+        "productName": "ชื่อสินค้า",
+        "selectProduct": "เลือกสินค้า",
+        "shippingCost": "ค่าส่ง",
+        "discount": "ส่วนลด",
+        "paymentComplete": "ชำระเงินแล้ว",
+        "paymentPending": "รอการชำระเงิน",
+        "totalPrice": "ยอดรวม"
+    }
+}

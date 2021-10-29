@@ -1,0 +1,14 @@
+FROM node:14.17-alpine AS dependencies
+
+RUN mkdir -p /usr/app
+WORKDIR /usr/app
+
+COPY package*.json ./
+
+RUN npm install -s
+
+COPY .env .env
+
+COPY ./ ./
+
+CMD ["npm", "run", "dev"]

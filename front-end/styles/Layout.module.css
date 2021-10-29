@@ -1,0 +1,64 @@
+.site-layout-background {
+  min-width: fit-content;
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.ant-row-rtl .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
+.locale {
+  float: right;
+}
+
+.locale .locale-first-link,
+.locale .locale-link {
+  display: inline-block;
+}
+
+.locale .locale-first-link a {
+  padding: 0 0.5em;
+  color: #FFF;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.locale .locale-link a {
+  padding: 0 0.5em;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 400;
+  border-left: 1px solid rgba(255, 255, 255, 0.65);
+}
+
+.locale .locale-first-link a.locale-selected,
+.locale .locale-link a.locale-selected {
+  color: #1890ff;
+}
+
+.ant-layout-header {
+  background: white
+}
+
+@media only screen and (max-width : 1024px) {
+  .content-layout {
+    padding: 0 1rem;
+  }
+}
+
+@media only screen and (min-width: 1023.99px) {
+  .content-layout {
+    padding: 0 50px;
+  }
+}

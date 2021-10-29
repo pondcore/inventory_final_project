@@ -1,0 +1,30 @@
+{
+    "dashboard": "รายงาน",
+    "page": {
+        "customers": "จัดการลูกค้า",
+        "products": "จัดการสินค้า",
+        "orders": "จัดการออเดอร์",
+        "create": "เพิ่ม{{text}}",
+        "edit": "แก้ไข{{text}}"
+    },
+    "manage_customer": "จัดการลูกค้า",
+    "manage_product": "จัดการสินค้า",
+    "manage_order": "จัดการออเดอร์",
+    "page_title": "ระบบจัดการ{{text}}",
+    "printTitle": "ปริ้น{{text}}",
+    "createTitle": "เพิ่ม{{text}}",
+    "createButton": "เพิ่ม{{text}}",
+    "editTitle": "แก้ไข{{text}}",
+    "editButton": "แก้ไข",
+    "deleteTitle": "คุณต้องการลบ{{text}}ใช่ไหม?",
+    "deleteDescription": "เมื่อ{{text}}นี้ถูกลบแล้ว จะไม่สามารถกู้คืนได้อีก",
+    "deleteButton": "ลบ",
+    "search_input": "ค้นหา{{text}}",
+    "form": {
+        "submit": "บันทึก",
+        "cancel": "ยกเลิก",
+        "select_default": "กรุณาเลือก",
+        "confirm": "ยืนยัน",
+        "select": "เลือก"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "product",
+    "form": {
+        "name": "Product name",
+        "price": "Price",
+        "qty": "Quantity of product",
+        "weight": "Weight(gram)",
+        "sku": "SKU",
+        "cost": "Cost",
+        "vat": "VAT(%)",
+        "image": "Image",
+        "image_upload_button": "Upload Image"
+    }
+}

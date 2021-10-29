@@ -1,0 +1,17 @@
+{
+    "title": "customer",
+    "form": {
+        "prefix": "Prefix",
+        "first_name": "Name",
+        "last_name": "Surname",
+        "phone": "Phone",
+        "address": "Address",
+        "addressPlaceholder": "address description",
+        "province": "Province",
+        "district": "District",
+        "sub_district": "Sub-district",
+        "postcode": "Postal code",
+        "image": "Image",
+        "image_upload_button": "Upload Image"
+    }
+}

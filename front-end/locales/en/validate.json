@@ -1,0 +1,4 @@
+{
+    "required": "Please input your {{text}}!",
+    "number": "{{text}} must be a number!"
+}

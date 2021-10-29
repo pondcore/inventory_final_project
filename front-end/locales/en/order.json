@@ -1,0 +1,24 @@
+{
+    "title": "order",
+    "table": {
+        "printButton": "print"
+    },
+    "form": {
+        "customerInfo": "Customer information",
+        "productList": "Product list",
+        "customerName": "Customer name",
+        "customerPhone": "Phone",
+        "customerAddress": "Address",
+        "customerSubdistrict": "Sub-district",
+        "customerDistrict": "District",
+        "customerProvince": "Province",
+        "customerZipCode": "Postal code",
+        "productName": "Product name",
+        "selectProduct": "Select product",
+        "shippingCost": "Shipping cost",
+        "discount": "Discount",
+        "paymentComplete": "Payment complete",
+        "paymentPending": "Payment pending",
+        "totalPrice": "Total price"
+    }
+}

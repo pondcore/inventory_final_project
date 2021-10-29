@@ -1,0 +1,30 @@
+body {
+    min-width: fit-content;
+}
+
+.page-header {
+    width: 100%;
+    text-align: center;
+}
+
+.avatar-uploader>.ant-upload {
+    min-width: 200px;
+    min-height: 200px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+@media (max-width: 767.99px) {
+    .avatar-uploader>.ant-upload {}
+}
+
+@media (min-width: 768px) {
+    .avatar-uploader>.ant-upload {
+        width: 300px !important;
+        height: 300px !important;
+    }
+}
+
+.color-primary {
+    color: #153250 !important;
+}

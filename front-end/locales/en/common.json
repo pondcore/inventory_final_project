@@ -1,0 +1,30 @@
+{
+    "dashboard": "Dashboard",
+    "page": {
+        "customers": "Manage Customer",
+        "products": "Manage Product",
+        "orders": "Manage Order",
+        "create": "Create {{text}}",
+        "edit": "Edit {{text}}"
+    },
+    "manage_customer": "Manage Customer",
+    "manage_product": "Manage Product",
+    "manage_order": "Manage Order",
+    "page_title": "Manage {{text}}",
+    "printTitle": "Print {{text}}",
+    "createTitle": "Create {{text}}",
+    "createButton": "Create {{text}}",
+    "editTitle": "Edit {{text}}",
+    "editButton": "Edit",
+    "deleteTitle": "Are you sure to delete these {{text}}?",
+    "deleteDescription": "You will not be able to recover this {{text}} anymore.",
+    "deleteButton": "Delete",
+    "search_input": "Search {{text}}",
+    "form": {
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "select_default": "Select a option",
+        "confirm": "Confirm",
+        "select": "Select"
+    }
+}
